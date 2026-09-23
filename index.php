@@ -269,7 +269,7 @@
   <div class="hero-slider-active owl-carousel">
     <div
       class="single-slide bg-cover"
-      style="background-image: linear-gradient(rgba(17, 24, 39, 0.55), rgba(17, 24, 39, 0.55)), url('assets/gif/Assembly_of_modern_prefab_house_clean_fast.webp'), url('assets/gif/Assembly_of_modern_prefab_house_20260924024901.gif'), url('assets/gif/Assembly_of_modern_prefab_house_poster.webp')"
+      style="background-image: linear-gradient(rgba(15, 23, 42, 0.70), rgba(15, 23, 42, 0.70)), url('assets/gif/Assembly_of_modern_prefab_house_clean_fast.webp'), url('assets/gif/Assembly_of_modern_prefab_house_20260924024901.gif'), url('assets/gif/Assembly_of_modern_prefab_house_poster.webp')"
     >
       <div class="container">
         <div class="row">
@@ -316,7 +316,7 @@
     </div>
     <div
       class="single-slide bg-cover"
-      style="background-image: linear-gradient(rgba(17, 24, 39, 0.55), rgba(17, 24, 39, 0.55)), url('assets/gif/Assembly_of_modern_prefab_house_clean_fast.webp'), url('assets/gif/Assembly_of_modern_prefab_house_20260924024901.gif'), url('assets/gif/Assembly_of_modern_prefab_house_poster.webp')"
+      style="background-image: linear-gradient(rgba(15, 23, 42, 0.70), rgba(15, 23, 42, 0.70)), url('assets/gif/Assembly_of_modern_prefab_house_clean_fast.webp'), url('assets/gif/Assembly_of_modern_prefab_house_20260924024901.gif'), url('assets/gif/Assembly_of_modern_prefab_house_poster.webp')"
     >
       <div class="container">
         <div class="row">
